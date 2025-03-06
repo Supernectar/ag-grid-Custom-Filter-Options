@@ -1,0 +1,20 @@
+{
+  "name": "ag-grid-example",
+  "dependencies": {
+    "react": "18",
+    "react-dom": "18",
+    "@types/react": "18",
+    "@types/react-dom": "18",
+    "@ag-grid-community/client-side-row-model": "31.3.2",
+    "@ag-grid-community/core": "31.3.2",
+    "@ag-grid-community/react": "31.3.2",
+    "@ag-grid-community/styles": "31.3.2",
+    "react-scripts-ts": "^2.13.0"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  }
+}
